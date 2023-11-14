@@ -1,6 +1,6 @@
 <style>
     .services_grid {
-        @apply grid grid-cols-dashboard_services grid-rows-dashboard_services px-6 w-full gap-3;
+        @apply grid grid-cols-dashboard_services grid-rows-dashboard_services px-3 w-full gap-3;
     }
     .services_grid_item {
         @apply rounded-xl bg-white bg-opacity-10 flex flex-row items-center px-3 py-2;

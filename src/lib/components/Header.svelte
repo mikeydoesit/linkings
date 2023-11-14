@@ -5,7 +5,7 @@
 
 <style>
     .header {
-        @apply flex flex-row h-auto w-full justify-between items-center py-6 px-6 ;
+        @apply flex flex-row h-auto w-full justify-between items-center py-6 px-3 ;
     }
     .left_col, .right_col {
         @apply h-auto flex flex-row items-center;

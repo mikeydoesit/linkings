@@ -1,6 +1,6 @@
 <style>
     .location {
-        @apply px-6 flex flex-row mt-4 mb-6 items-center;
+        @apply px-3 flex flex-row mt-4 mb-6 items-center;
     }
     .icon_wrapper {
         @apply h-8 w-8;
