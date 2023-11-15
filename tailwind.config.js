@@ -13,7 +13,7 @@ export default {
       'tapbarmenu': '1fr 1fr 1fr 1fr 1fr',
       'homepage': '1fr',
       'dashboard_services': '1fr 1fr',
-      'erSelect': '1fr 1fr',
+      'cars_grid': '1fr 1fr',
       'recentPosts': 'repeat(2, minmax(0, 1fr))',
       'newsIndex': '1fr 1fr',
       'habits': '1fr 1fr'
@@ -21,7 +21,7 @@ export default {
     gridTemplateRows: {
       'tapbarmenu': '100%',
       'dashboard_services': 'repeat(4, minmax(0, 1fr))',
-      'erSelect': '1fr 1fr',
+      'cars_grid': '1fr 1fr',
       'habits': '1fr 1fr 1fr 1fr'
     },
     extend: {},
