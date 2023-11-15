@@ -1,6 +1,6 @@
 <style>
     .cars_grid {
-        @apply px-3 grid grid-cols-cars_grid grid-rows-cars_grid w-full gap-3 mt-8;
+        @apply px-3 grid grid-cols-cars_grid grid-rows-cars_grid w-full gap-3 mt-8 mb-20;
     }
     .car {
         @apply rounded-xl bg-white bg-opacity-10 p-2.5 cursor-pointer;
